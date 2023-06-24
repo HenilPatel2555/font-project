@@ -1,0 +1,29 @@
+html {
+    background-color: cornflowerblue;
+}
+
+h1{
+    color: whitesmoke;
+}
+
+h3{
+    color: orange;
+}
+
+#size{
+    font-size:xx-large
+}
+
+#weight{
+    font-weight: bolder;
+    color: whitesmoke;
+}
+
+#Family{
+    font-weight: lighter;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#note{
+    text-align:right;
+}
